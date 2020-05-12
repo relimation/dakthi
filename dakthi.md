@@ -156,7 +156,7 @@ When /f/ is layered onto a collective noun, asks for which item from the class.
 	Lit. What person do you see?
 	You see whom?
 
-	vf'xola			te 	roti
+	vf'xola	    	te 	roti
 	CAU-INT-person	2SG	sit
 	Who made you sit?
 
