@@ -25,10 +25,10 @@ ti,will/later,AUX,
 do,is,COP,
 ca,isn't,COP.NEG,
 do,and,CNJ,only between clauses
-s'do,or,CNJ,only between clauses
-v'do,so,CNJ,only between clauses
-li,and/with,CNJ,only between nouns
+s'do,or,CNJ.PL,only between clauses
+v'do,so,CNJ.DEO,only between clauses
 li,or,CNJ,only between nouns
+s'li,and/with,CNJ.PL,only between nouns
 leko,this,DEM.PROX,
 lepo,that,DEM.MED,
 taru,that,DEM.DIST,
