@@ -14,21 +14,24 @@ The linguistic consequence is that plurality and the past are intricately connec
 |             | Mandibular | Labrumal | Ligular | Mentumal |Submentumal| Hypopharyngeal |
 |-------------|:----------:|:--------:|:-------:|:--------:|:---------:|:--------------:|
 | Plosive     | p          | t        | k       | d        | c         | q              |
-| Click       | !          |          | ǂ       | ǁ        |           |                |
+| Click       | !          |          | ǂ        | ǁ        |           |                |
 | Fricative   | θ          |          | x       | r        |           |                |
 | Approximate |            |          | j       | l        |           |                |
 
-Yes, that table looks strange, though perhaps not so strange if you're read [this post by /u/MobiusFlip](https://www.reddit.com/r/conlangs/comments/6p59py/do_you_have_any_additional_places_of_articulation/dkn2elg/). I've ~~butchered~~ reworked his phonology for my purposes. 
+Yes, that table looks strange, though perhaps not so strange if you've read [this post by /u/MobiusFlip](https://www.reddit.com/r/conlangs/comments/6p59py/do_you_have_any_additional_places_of_articulation/dkn2elg/). I've ~~butchered~~ reworked his phonology for my purposes. 
 
 / p t k d c q ! ǂ ǁ θ x r j l /
 
 *Vowels*
+
 /a e i o u/
 
 *Vibratives*
+
 Dakthi have four vibratives that can be coarticulated with other phonemes. They are crestal /s/, palpitative /z/, spiraculative /f/, and hypopharyngeal /v/. I mark them with a prefix, but understand they are articulated for the whole word. If adjacent words are marked with the same vibrative, they are not released and rearticulated, but carried across the words.
 
 *Syllable Structure*
+
 CV
 
 ## Writing system
@@ -37,17 +40,21 @@ With only 14 consonants, 5 vowels, and a fixed syllable structure, Proto-Dakthi 
 ## Grammar
 
 SOV
+
 Adjective - Noun
+
 Noun - Postposition
+
 Possessor - Possessee
+
 Verb - Auxiliary
 
 ### Pronouns
-	pe		I		1.SG
-	s'pe	we		1.PL
-	te		you		2.SG
+	pe  	I   	1.SG
+	s'pe	we   	1.PL
+	te  	you  	2.SG
 	s'te	y'all	2.PL
-	ke		he/she	3.SG
+	ke  	he/she	3.SG
 	s'ke	they	3.PL
 
 Note that the plural forms have a strong sense of collective memory. "s'pe" best translates as "we, who have shared memory" rather than English "we, who are in proximity to the speaker"; similarly for the 2nd and 3rd persons. A Dakthi would prefer passive constructions such as "the people" to avoid referring a group of mixed company with a collective pronoun, even if "the people" includes the speaker or audience.
@@ -55,7 +62,7 @@ Note that the plural forms have a strong sense of collective memory. "s'pe" best
 If the speaker refers to a future event after an expected reproductive cycle, the plural form is again used. This creates ambiguous sentences, resolved by context.
 
 	s'pe 	te 	poxi	ti
-	1PL		2SG	see 	will
+	1PL 	2SG	see 	will
 	We, as in I who will reproduce, will see you./
 	We, us brothers/cousins who share memory, will see you.
 
@@ -96,11 +103,11 @@ Removing the causer and shifting /v/ onto the verb phrase adds the deontic mood
 
 Moving the /v/ layering off the verb communicates emphasis
 
-	v'xola 			!eju 	poxi
+	v'xola 	    	!eju 	poxi
 	DEO.EMP-person	animal	see
 	*The person* must see the animal
 
-	xola 	v'!eju 		poxi
+	xola 	v'!eju 	    	poxi
 	person	DEO.EMP-animal	see
 	The person must see *the animal*
 
@@ -132,7 +139,7 @@ When /f/ is layered onto a collective noun, asks for which item from the class.
 	Lit. What thing do you see?
 	What do you see?
 
-	vf'ǂaco 			te	roti
+	vf'ǂaco     	te	roti
 	CAU-INT-thing	2SG	sit
 	Lit. What thing caused you to sit?
 	Why are you sitting?
@@ -144,7 +151,7 @@ When /f/ is layered onto a collective noun, asks for which item from the class.
 	Lit. What person sees you?
 	Who sees you?
 
-	te 	f'xola 	poxi
+	te 	f'xola 		poxi
 	2SG	INT-person	see
 	Lit. What person do you see?
 	You see whom?
@@ -181,11 +188,11 @@ If omitted, the source is understood to be the speaker.
 
 /z/ may be layered on other parts of the sentence to emphasize certainty
 
-	z'xola 			!eju 	poxi
+	z'xola 		!eju 	poxi
 	EV.EMP-person	animal	see
 	(I know) *the person* sees the animal
 
-	xola 	z'!eju 			poxi
+	xola 	z'!eju 		poxi
 	person	EV.EMP-animal	see
 	(I know) The person sees *the animal*
 
@@ -211,7 +218,7 @@ With the verb in the past tense, the sentence is grammatical.
 	The person is big
 
 	xola	kapa	s'do
-	person	big		PST-COP
+	person	big 	PST-COP
 	The person was big
 
 	!eju	kexa	v'do
@@ -230,41 +237,41 @@ With the verb in the past tense, the sentence is grammatical.
 There is a second negative copula, "ca".
 
 	xola	kapa	ca
-	person	big		COP.NEG
+	person	big	COP.NEG
 	The person isn't big
 
 ### Conjunctions
 
 The copula "do" may also be used as the or conjunction, but only between clauses.
 
-	pe 	!eju 	poxi	do	te 	rito
-	1SG	animal	see		or	2SG	sit
+	pe	!eju 	poxi	do	te 	rito
+	1SG	animal	see 	or	2SG	sit
 	(I see the animal) or (you sit)
 
 The negative copula "ca" cannot be used as a conjunction.
 
-	*pe !eju 	poxi	ca	te 	rito
-	1SG	animal	see		not	2SG	sit
+	*pe	!eju	poxi	ca	te 	rito
+	1SG	animal	see 	not	2SG	sit
 	(I see the animal) not (you sit)
 
 That is ungrammatical. Of course, "-ca" still works a negative affix
 
 	pe 	!eju 	poxi	do	te 	rito-ca
-	1SG	animal	see		or	2SG	sit-NEG
+	1SG	animal	see	or	2SG	sit-NEG
 	(I see the animal) or (you don't sit)
 
 Layering in /s/ turns "do" into and. 
 
 	pe 	!eju 	poxi	s'do	te 	rito
-	1SG	animal	see	and	2SG	sit
+	1SG	animal	see 	and 	2SG	sit
 	(I see the animal) and (you sit)
 
 Layering in /v/ turns "do" into so. 
 
-		pe 	!eju 	poxi	v'do	pe 	!eju 	kexa	v'do
-		1SG	animal	see		so		1SG	animal	dead	DEO.COP
-		Lit. (I see the animal) so (I make the animal be dead)
-		(I see the animal) so (I kill the animal)
+	pe 	!eju 	poxi	v'do	v'pe 	!eju 	kexa	do
+	1SG	animal	see 	so	CAU-1SG	animal	dead	COP
+	Lit. (I see the animal) so (I make the animal be dead)
+	(I see the animal) so (I kill the animal)
 
 The or conjunction "li" is used between nouns
 
@@ -275,7 +282,7 @@ The or conjunction "li" is used between nouns
 Similarly, layering in /s/ turns "li" into and. 
 
 	pe 	!eju 	s'li	te 	poxi
-	1SG	animal	and		2SG	see
+	1SG	animal	and 	2SG	see
 	I see (the animal and you)
 
 However, layering /v/ onto "li" works the same as layering /v/ onto any noun phrase
