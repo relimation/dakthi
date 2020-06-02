@@ -6,7 +6,7 @@ The Dakthi are a highly sexually dimorphic species. Only the males are sapient; 
 
 Without delving into the entire lifecycle, Dakthi reproduction requires the death of the parents. Upon emerging from the pupal stage, Dakthi retain the memories of their father. In a sense, they aren't even different people, but rather the same consciousness which has multiplied into the children. The entire stage of childhood maturation typical in most species is skipped. This does not mean that Dakthi remember everything from the beginning of time; memories fade and distort, just like anyone.
 
-The linguistic consequence is that plurality and the past are intricately connected. Across a reproductive cycle, the past tense of "I sit" is not "I sat" but "We sat", as in "We, us brothers who collectively remember the same act of sitting.
+The linguistic consequence is that plurality and the past are intricately connected. Across a reproductive cycle, the past tense of "I sit" is not "I sat" but "We sat", as in "We, us brothers who collectively remember the same act of sitting".
 
 ## Phonology
 
@@ -34,8 +34,13 @@ Dakthi have four vibratives that can be coarticulated with other phonemes. They 
 
 CV
 
+*Stress*
+Stress always falls on the final syllable of the root. Suffixes are not stressed. 
+
 ## Writing system
-With only 14 consonants, 5 vowels, and a fixed syllable structure, Proto-Dakthi can use a 70-character syllabary for vowels and consonants, with abugida-like markings for vibratives.
+Dakthi dip both of their antennae in ink, to use as brushes for calligraphic writing. Dakthi is written top-to-bottom, left-to-right. With only 14 consonants, 5 vowels, and a fixed syllable structure, Proto-Dakthi used a 70-character syllabary for vowels and consonants. However, sound changes have led to some historical spelling. Vibratives marked with vertical lines beside/through the glyphs.
+
+Many of the glyphs feature parallel lines or rotations; these are drawn with both antennae simultaneously. Note that free, independent movement from both antennae would exceed a Dakthi's ability to concentrate on fine motor skills, which why these parallel glyphs arose in the first place. 
 
 ## Grammar
 
@@ -71,45 +76,56 @@ The more distant the relation, the less relevant the shared memory, the less lik
 ### Past/Plural
 Layering the /s/ vibrative onto a verb phrase turns it into past tense.
 
-	xola 	!eju 	s'poxi
+	xoli 	!eju 	s'poxi
 	person	animal	PST-see
 	The person saw the animal
 
 Layering /s/ onto a noun phrase turns it plural
 
-	s'xola 		!eju 	poxi
+	s'xoli 		!eju 	poxi
 	PL-person	animal	see	 
 	The people see the animal
 
 Adjectives must agree with the noun
 
-	xola 	s'kapa	s'!eju 		poxi
+	xoli 	s'kapa	s'!eju 		poxi
 	Person	PL-big	PL-animal	see
 	The person sees the big animals
 
 ### Causative/Deontic Aspect
-Layering the /v/ vibrative onto an additional noun turns into a causitive
+Layering the /v/ vibrative onto an additional noun turns into a causitive. 
 The causation noun must the start of the sentence
 
-	v'pe 	xola 	!eju 	poxi
+	v'pe 	xoli 	!eju 	poxi
 	CAU-1SG	person	animal	see
 	I make the person see the animal
 
+The causative is often used for instructions, but other constructions work.
+
+	v'pe` xiri xalaqe do
+	CAU-1SG cup full be
+	Lit. I make the cup be full
+	I fill the cup
+
+	v'pe v'rali v'qatole pe qela puli
+	CAU-1SG POSS.INAL hunger 1SG it eat
+	Lit. My hunger makes me eat it.
+
 Removing the causer and shifting /v/ onto the verb phrase adds the deontic mood 
 
-	xola 	!eju	v'poxi
+	xoli 	!eju	v'poxi
 	person	animal	DEO-see
 	The person must see the animal
 
-Moving the /v/ layering off the verb communicates emphasis
+If instead the /v/ layering is on the agent of a sentence, the sentence is both deontic and descriptive.
 
-	v'xola 	    	!eju 	poxi
-	DEO.EMP-person	animal	see
-	*The person* must see the animal
+	v'xoli 	    	!eju 	poxi
+	DEO-person	animal	see
+	The person must see the animal, and he is. 
 
-	xola 	v'!eju 	    	poxi
-	person	DEO.EMP-animal	see
-	The person must see *the animal*
+The /v/ layering reminds the listener that his action is a fulfilment of a duty. 
+
+This turns /v/ layering on pronouns into a type of honorific, but not one that maps onto traditional human social heirarchies. Both leaders and peasants may or may not use the /v/ honorific; the key aspect being that they must be fulfilling their duty.
 
 Obligations are so important to Dakthi, that even desires are expressed by negating obligative phrases.
 
@@ -122,15 +138,29 @@ Layering the /f/ vibrative onto a verb phrase adds the interrogative mood.
 
 On the copula, /f/ asks yes/no questions
 
-	xola	kexa	f'do
+	xoli	kexa	f'do
 	person	dead	INT-COP
 	Is the person dead?
 
-	xola	kexa	f'ca
+	xoli	kexa	f'ca
 	person	dead	INT-COP.NEG
 	Is the person not dead? (presumptively he was)
 
-When /f/ is layered onto a collective noun, asks for which item from the class.
+If the declarative statement lack a copula, it can be added as a particle.
+
+	ke	!eju	tali	f'do
+	3SG	animal	hunt	INT
+	Is he hunting the animal?
+
+	ke	!eju	tali	f'ca
+	3SG	animal	hunt	INT-NEG
+	Is he not hunting the animal? (presumptively he is)
+
+Yes/no question are affirmatively answered with echo response. Affirmative answers to the above examples would be "kexa" and "tali" respectively.
+
+Negative answers simply respond with "ca". 
+
+When /f/ is layered onto a collective noun, it asks for which item from the class.
 
 "ǂaco" means thing, so "f'ǂaco" forms what
 
@@ -144,19 +174,19 @@ When /f/ is layered onto a collective noun, asks for which item from the class.
 	Lit. What thing caused you to sit?
 	Why are you sitting?
 
-"xola" means person, so "f'xola" forms who/whom
+"xoli" means person, so "f'xoli" forms who/whom
 
-	f'xola 		te 	poxi
+	f'xoli 		te 	poxi
 	INT-person	2SG	see
 	Lit. What person sees you?
 	Who sees you?
 
-	te 	f'xola 		poxi
+	te 	f'xoli 		poxi
 	2SG	INT-person	see
 	Lit. What person do you see?
 	You see whom?
 
-	vf'xola	    	te 	roti
+	vf'xoli	    	te 	roti
 	CAU-INT-person	2SG	sit
 	Who made you sit?
 
@@ -176,35 +206,35 @@ On the verb, /f/ interrogates how (manner)
 ### Evidential Aspect
 Layering the /z/ vibrative adds evidentiality. The source of the evidence may be added to the start of the sentence
 
-	z'te 	xola 	!eju 	poxi
+	z'te 	xoli 	!eju 	poxi
 	EV-2SG	person	animal	see
 	You know the person sees the animal 
 
 If omitted, the source is understood to be the speaker.
 
-	xola 	!eju 	z'poxi
+	xoli 	!eju 	z'poxi
 	person	animal	EV-see
 	(I know) the person sees the animal
 
 /z/ may be layered on other parts of the sentence to emphasize certainty
 
-	z'xola 		!eju 	poxi
+	z'xoli 		!eju 	poxi
 	EV.EMP-person	animal	see
 	(I know) *the person* sees the animal
 
-	xola 	z'!eju 		poxi
+	xoli 	z'!eju 		poxi
 	person	EV.EMP-animal	see
 	(I know) The person sees *the animal*
 
 If plural is added to the evidential source, evidence is understood to come from shared collective memory. This invalidates certain combinations of tenses.
 
-	*zs'pe 	xola 	!eju 	poxi
+	*zs'pe 	xoli 	!eju 	poxi
 	EV-PL-1	person	animal	sees
 	We know (from shared memory) the person sees the animal
 
 That is ungrammatical, for even if we are all witnessing the event first-hand, we would not have a shared memory of the present.
 
-	zs'pe	xola 	!eju 	s'poxi
+	zs'pe	xoli 	!eju 	s'poxi
 	EV-Pl-1	person	animal	PST-saw
 	We know (from our shared memory) the person saw the animal
 
@@ -213,11 +243,11 @@ With the verb in the past tense, the sentence is grammatical.
 ### Copula
 "do" is the copula
 
-	xola 	kapa 	do
+	xoli 	kapa 	do
 	person	big 	COP
 	The person is big
 
-	xola	kapa	s'do
+	xoli	kapa	s'do
 	person	big 	PST-COP
 	The person was big
 
@@ -225,18 +255,18 @@ With the verb in the past tense, the sentence is grammatical.
 	animal	dead	DEO-COP
 	The animal should be dead
 
-	v'pe	xola	kexa	do
+	v'pe	xoli	kexa	do
 	CAU-1SG	person	dead	COP
 	Lit. I make the person dead
 	I kill the person
 
-	xola	kexa	z'do
+	xoli	kexa	z'do
 	person	dead	EV-COP
 	(I know) the person is dead.
 
 There is a second negative copula, "ca".
 
-	xola	kapa	ca
+	xoli	kapa	ca
 	person	big	COP.NEG
 	The person isn't big
 
@@ -296,6 +326,78 @@ However, layering /v/ onto "li" works the same as layering /v/ onto any noun phr
 	v'ke		v'li	pe	rito
 	EMP.DEO-2SG	DEO-and 2SG	sit
 	You and I (but especially you) must sit.
+
+
+# Numerals
+
+Dakthi has six digits.
+
+| Dakthi | Digit |
+|--------|:-----:|
+| ci     | 0     |
+| po     | 1     |
+| ta     | 2     |
+| ku     | 3     |
+| di     | 4     |
+| qi     | 5     |
+
+Dakthi uses an alternating radix system; starting in base-6, then base-4, back to base-6, and so on.
+
+| Digit | Multiplier  |
+|-------| ------------|
+| 1st   | 1           |
+| 2nd   | 6    =1×6   |
+| 3rd   | 24   =6×4   |
+| 4th   | 144  =24×6  |
+| 5th   | 576  =144×4 |
+| 6th   | 3456 =576×6 |
+
+Dakthi count base-6 digits by tapping one of their six legs, then use their left and right antennae and mandibles to count base-4 digits. 
+
+Dakthi is read out least significant digit first (backwards to most humans). So qi-ta-po-ci-di = 5₆2₄1₆0₄4₆ = 5×1 + 2×6 + 1×24 + 0×144 + 4×576 = 5 + 12 + 24 + 0 + 2304 = 2345₁₀. 
+
+Something like ta-qi = 2₆5₄ = 2×1 + 5×6 = 2 + 30 = 32₁₀ is understandable, but improper; that second digit shouldn't exceed it's radix. The proper form is ta-po-po = 2₆1₄1₆ = 2×1 + 1×6 + 1×24 = 2 + 6 + 24 = 32₁₀.
+
+A bare number without a classifier is ungrammatical. The common generic classifiers are "xoqu", "juqu", and "laqu" for Dakthi, animate, and inanimate nouns respectively. However, Dakthi has an open set of classifiers; the "-qu" suffix may be added to any noun to produce a classifier. The productive nature of Dakthi classifiers eliminates the distinction between mass nouns and count nouns.
+
+        s'xiri-qu       s'ku-po s'dajuθepa
+        PL-cup-CL       PL-nine water
+        nine cups of water
+
+        s'xo-qu         s'ku-po s'pe
+        PL-person-CL    PL-nine PL-1
+        nine of us
+
+Note how pluralisation must agree for the entire noun phrase.
+
+The noun can be omitted, trading ambiguity for brevity.
+
+        s'xiri-qu       s'ku-po
+        PL-cup-CL       PL-nine
+        nine cups
+
+        s'xo-qu         s'ku-po
+        PL-person-CL    PL-nine
+        nine people
+
+Ordinal numbers are indicated by adding the adjective suffix "-ru" the number.
+
+        xiri-qu ku-po-ru        dajuθepa
+        cup-CL  nine-ORD        water
+        ninth cup of water
+
+        xo-qu           ku-po-ru
+        person-CL       nine-ORD
+        ninth person
+
+Fractional numbers are indicated by placing the denominator before the classifier, and the numerator after.
+
+        s'ci-po s'xiri-qu       s'qi
+        PL-six  PL-cup-CL       PL-five
+        five sixths of a cup
+
+Improper fractions are preferred over mixed fractions.
+
 
 ## Evolution
 
