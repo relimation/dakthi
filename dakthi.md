@@ -399,6 +399,49 @@ Fractional numbers are indicated by placing the denominator before the classifie
 Improper fractions are preferred over mixed fractions.
 
 
+# Nature
+
+Weather verbs in Dakthi take the subject noun "ǁixa".
+
+        ǁixa    ce      juθepa
+        nature  REFL    water
+        Lit. Nature waters itself.
+        It rains.
+
+        ǁixa    ce      θiǂuǁa
+        nature  REFL    shines.upon
+        Lit. Nature shines upon itself.
+        It is sunny.
+
+Unlike the English it, ǁixa has semantic meaning; nature. Weather is always done by nature. The object doesn't need to be reflexive.
+
+        ǁixa    poticiqi        ca!uro
+        nature  sun             covers
+        Lit. Nature covers the sun.
+        It is cloudy.
+
+Dakthi experience frequent eclipses, described using the same word "ca!uro". As inanimate nouns, neither the moon or the world can act as agents, so a causative construction is used.
+
+        v'ǁixa          joθa    papi    ca!uro
+        CAU-nature      world   moon    cover
+        Lit. Nature makes the world cover the moon.
+        There is a lunar eclipse.
+
+        v'ǁixa          papi    poticiqi        ca!uro
+        CAU-nature      moon    sun             cover
+        Lit. Nature makes the moon cover the sun.
+        There is a solar eclipse.
+
+Dakthi believe nature has certain obligations.
+
+        ǁixa    ce      v'juθepa
+        nature  REFL    DEO-water
+        Lit. Nature must water itself.
+        It must rain.
+
+Droughts are not simply unfortunate, but morally wrong; nature has failed it's duty to water itself. In this way, nature is anthropomorphized, but not deified. Nature is not a perfect thing to be worshipped, but another person to be chastised why they fail.
+
+
 ## Evolution
 
 A few brief notes on how Proto-Dakthi is likely to evolve
