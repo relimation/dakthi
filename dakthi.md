@@ -85,6 +85,32 @@ If the speaker refers to a future event after an expected reproductive cycle, th
 
 The more distant the relation, the less relevant the shared memory, the less likely is it that the second meaning is implied.
 
+# Derivation
+
+Dakthi has several productive affixes to change part of speech.
+
+	-qu  	Derives classifier from noun
+	da-  	Derives noun from verb's object
+	-xoli	Derives noun from verb's agent
+	-ru  	Derives adjective from noun
+
+Dakthi lacks definite/indefinite marking. Instead, a speaker may indicate definiteness with use of the "da-" prefix.
+
+	ke  ǁidala poxi. ke  dapoxi     kowa. dakowa      ca!uru do
+	1SG rock   see.  1SG seen.thing take. taken.thing black  COP
+	Lit. I see a rock. I take the thing I saw. The thing I took is black.
+	I see a rock. I take the rock. The rock is black.
+
+Note how the same rock is derived from a new verb in each sentence. This is typical in informal speech, but "dapoxi" could have been used in the third sentence for emphasis, particularly for literary effect. 
+
+Of course, a shorter construction would simply use the inanimate, alienable pronoun "qela" here. However, pronouns can be ambiguous.
+
+	ke  ǁidala poxi. ke  xiri kowa. qela       ca!uru do
+	1SG rock   see.  1SG cup  take. POSS.ALIEN black  COP
+	I see a rock. I take a cup. It is black.
+
+"it" is ambiguous between the rock and the cup here. We can disambiguate with "dapoxi" (the thing I saw; the rock) or "dakowa" (the thing I took; the cup). Just using "ǁidala" (rock) or "xiri" (cup) would introduce a different ambiguity; the speaker could be referring to the previously mentioned rock and cup, or some new rock or cup.
+
 ### Past/Plural
 Layering the /s/ vibrative onto a verb phrase turns it into past tense.
 
