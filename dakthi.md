@@ -451,9 +451,9 @@ The numeral may be omitted in a comparison.
 
 Superlatives are constructed using a quantifier
 
-	ke kilo rataru s'xoqu s'ciri do
-	2SG more honorable PL-person.CL PL-all COP
-	You are most honorable of all people.
+	s'xoqu       s'ciri rali      ke  kilo rataru do
+	PL-person.CL PL-all POSS.INAL 2SG more honorable COP
+	Of all people, you are most honorable.
 
 # Nature
 
