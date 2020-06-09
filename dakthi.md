@@ -44,13 +44,21 @@ Many of the glyphs feature parallel lines or rotations; these are drawn with bot
 
 ## Grammar
 
-SOV
+### Introduction
+
+Dakthi is a head-final, analytic language. Aside from negation, affixes are only used to change part of speech.
+
+Every Dakthi verb requires both a subject and object. Some intransitive English verbs become reflexive, while others incorporate prepositions.
+
+Subject - Object - Verb
 
 Adjective - Noun
 
+Classifier - Numeral/Quantifier - (Noun)
+
 Noun - Postposition
 
-Possessor - Possessee
+Possessor - Possessive Particle - Possessee
 
 Verb - Auxiliary
 
@@ -61,6 +69,10 @@ Verb - Auxiliary
 	s'te	y'all	2.PL
 	ke  	he/she	3.SG
 	s'ke	they	3.PL
+	qe	it	ANIM.SG
+	s'qe	its	ANIM.PL
+	qela	it	INAN.SG
+	s'qela	its	INAN.PL
 
 Note that the plural forms have a strong sense of collective memory. "s'pe" best translates as "we, who have shared memory" rather than English "we, who are in proximity to the speaker"; similarly for the 2nd and 3rd persons. A Dakthi would prefer passive constructions such as "the people" to avoid referring a group of mixed company with a collective pronoun, even if "the people" includes the speaker or audience.
 
@@ -381,7 +393,7 @@ The noun can be omitted, trading ambiguity for brevity.
 
 Ordinal numbers are indicated by adding the adjective suffix "-ru" the number.
 
-        xiri-qu ku-po-ru        dajuθepa
+        xiri-qu ku-po-ru        jupata
         cup-CL  nine-ORD        water
         ninth cup of water
 
