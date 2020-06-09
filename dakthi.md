@@ -274,26 +274,26 @@ There is a second negative copula, "ca".
 
 The copula "do" may also be used as the or conjunction, but only between clauses.
 
-	pe	!eju 	poxi	do	te 	rito
-	1SG	animal	see 	or	2SG	sit
+	pe	!eju 	poxi	do	te 	ce	rito
+	1SG	animal	see 	or	2SG	REFL	sit
 	(I see the animal) or (you sit)
 
 The negative copula "ca" cannot be used as a conjunction.
 
-	*pe	!eju	poxi	ca	te 	rito
-	1SG	animal	see 	not	2SG	sit
+	*pe	!eju	poxi	ca	te 	ce	rito
+	1SG	animal	see 	not	2SG	REFL	sit
 	(I see the animal) not (you sit)
 
 That is ungrammatical. Of course, "-ca" still works a negative affix
 
-	pe 	!eju 	poxi	do	te 	rito-ca
-	1SG	animal	see	or	2SG	sit-NEG
+	pe 	!eju 	poxi	do	te 	ce	rito-ca
+	1SG	animal	see	or	2SG	REFL	sit-NEG
 	(I see the animal) or (you don't sit)
 
 Layering in /s/ turns "do" into and. 
 
-	pe 	!eju 	poxi	s'do	te 	rito
-	1SG	animal	see 	and 	2SG	sit
+	pe 	!eju 	poxi	s'do	te 	ce	rito
+	1SG	animal	see 	and 	2SG	REFL	sit
 	(I see the animal) and (you sit)
 
 Layering in /v/ turns "do" into so. 
@@ -317,16 +317,15 @@ Similarly, layering in /s/ turns "li" into and.
 
 However, layering /v/ onto "li" works the same as layering /v/ onto any noun phrase
 
-	v'ke	v'li	v'pe	rito
-	DEO-2SG	DEO-and DEO-1SG sit
+	v'ke	v'li	v'pe	ce	rito
+	DEO-2SG	DEO-and DEO-1SG REFL	sit
 	You and I must sit.
 
 /v/ layering is typically done across the the entire noun phrase, but can be shifted for emphasis
 
-	v'ke		v'li	pe	rito
-	EMP.DEO-2SG	DEO-and 2SG	sit
+	v'ke		v'li	pe	ce	rito
+	EMP.DEO-2SG	DEO-and 1SG	REFL	sit
 	You and I (but especially you) must sit.
-
 
 # Numerals
 
@@ -398,6 +397,51 @@ Fractional numbers are indicated by placing the denominator before the classifie
 
 Improper fractions are preferred over mixed fractions.
 
+Quantifiers also use the classifier construction
+
+	s'xiri-qu	s'ciri
+	PL-cup-CL	PL-all
+	all cups
+
+	s'xiri-qu	s'repe
+	PL-cup-CL	PL-some
+	some cups
+
+# Comparatives
+
+"kilo" and "kila" translate to more and less, respectively.
+
+	ke  kilo diloqeru do
+	2SG more young    COP
+	You are younger.
+
+	ke  kila rataru    do
+	2SG less honorable COP
+	You are less honorable.
+
+"z'li" is the conjunction used for comparison. Unlike English "than", "z'li" is a conjunction, not an adjunct; it cannot move to the end of the phrase.
+
+	ke  z'li pe  kilo lora  do
+	2SG than 1SG more quick COP
+	You are quicker than me.
+
+Comparatives can precede classifiers.
+
+	ke  z'li pe  kilo s'xiri-qu s'ku     s'jupata ǁaθe
+	2SG than 1SG more PL-cup-CL PL-three PL-water POSS.ALIEN
+	You have three more cups of water than me.
+
+The numeral may be omitted in a comparison.
+
+	ke  z'li pe  kilo s'xiri-qu s'jupata ǁaθe
+	2SG than 1SG more PL-cup-CL PL-water POSS.ALIEN
+	You have more cups of water than me.
+
+Superlatives are constructed using a quantifier
+
+	ke kilo rataru s'xoqu s'ciri do
+	2SG more honorable PL-person.CL PL-all COP
+	You are most honorable of all people.
 
 # Nature
 
